@@ -1,0 +1,146 @@
+*{font-family: Constantia
+		}
+		body{
+			background-color: #E8FFCE;
+		}
+		div{
+			width: 1130px;
+			height: 50px;
+			background-color: white;
+			  box-shadow: 5px 10px 8px #888888;
+			  margin-left: 60px;
+
+		}
+		
+		button{
+			width:100px;
+			height: 25px;
+			border-radius: 5px;
+			margin-top: 10px;
+			background-color: #9ED2BE;
+			color: white
+			 
+		}
+		h3{
+			margin-left: 350px;
+			margin-top:  10px;
+			box-sizing: border-box;
+		}
+		.a{
+			width: 300px;
+			height: 520px;
+			background-color: white;
+			margin-left: 65px;
+			margin-top: 25px;
+			float: left;
+			 box-shadow: 5px 10px 8px #888888;
+		}
+			.b{
+			width: 800px;
+			height: 250px;
+			background-color:white;
+			margin: 25px;
+			float: left;
+			box-shadow: 5px 10px;
+			 box-shadow: 5px 10px 8px #888888;
+
+			}
+			.c{
+			width: 800px;
+			height: 380px;
+			background-color: white;
+			margin-top: 0px;
+			margin-left: 25px;
+			float: left;
+			  box-shadow: 5px 10px 8px #888888;
+
+			}
+			img{
+				width:105px;
+				height: 105px;
+				margin-left: 93px;
+				margin-top: 15px;
+				border: 5px solid #ACFADF;
+				border-radius: 100%
+
+			}
+			.d{
+				text-align: center;
+				margin-top: 5px;
+
+			}
+			p{
+				font-size: 15px;
+				margin-top: 5px;
+			}
+			.abc{
+				display: inline;
+				margin-left: 5px;
+
+			}
+
+			i{
+				margin-left: 15px;
+				font-size: 25px;
+
+			}
+			span{
+				display: inline;
+				color: #A8A196;
+				margin-left:60px;
+			}
+			.dce{
+				display: inline;
+				color: #A8A196;
+				margin-left:70px;
+
+			}
+			.a_div{
+				width: 700px;
+				height: 5px;
+				background: grey;
+				margin-left: 50px;
+				border-radius:5px; 
+			}
+			
+			.test{
+				font-family: arial big;
+				margin-left: 50px;
+			}
+			form{
+				margin: 25px;
+			}
+			input[type=text]{
+				width:530px;
+				height: 20px;
+				margin-left: 50px;
+				margin-bottom: 5px;
+
+			}
+			input[type=email]{
+				width:530px;
+				height: 20px;
+				margin-left: 50px;
+				margin-bottom: 5px;
+
+
+			}
+			.a_button{
+				width: 150px;
+				 height: 25px;
+				 margin-left: 300px;
+				 background-color:#7895CB;
+				 color: white 
+			}
+			progress{
+				width: 700px;
+				height: 5px;
+				color: green;
+				margin-left: 25px;
+				margin-top: 0px;
+
+
+			}
+
+
+		
